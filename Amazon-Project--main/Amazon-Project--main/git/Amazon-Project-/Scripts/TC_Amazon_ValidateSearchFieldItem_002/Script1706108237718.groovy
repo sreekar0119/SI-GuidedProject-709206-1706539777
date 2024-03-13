@@ -21,11 +21,11 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl('https://www.amazon.com/')
 WebUI.click(findTestObject('Object Repository/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Amazon Sign In/input_email'), 'Sreekar0119@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Page_Amazon Sign In/input_email'), 'ajayreddydharmajipeta123@gmail.com')
 
 WebUI.click(findTestObject('Object Repository/Page_Amazon Sign In/inputcontinue'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Amazon Sign In/input_password'), '04081973')
+WebUI.setText(findTestObject('Object Repository/Page_Amazon Sign In/input_password'), 'Ajayreddy@6644')
 
 WebUI.click(findTestObject('Object Repository/Page_Amazon Sign In/inputsignInSubmit'))
 
